@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richa Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "left" alt = "coding" src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif"
+<img align = "left" alt = "coding" src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 - 🔭 I’m currently working on **Amazon-Clone**
 
