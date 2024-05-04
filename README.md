@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Richa Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p></p>
-<div style="overflow: hidden;">
+<style>
+  .image-container {
+    overflow: hidden;
+    margin: 20px;
+    padding: 10px;
+  }
+</style>
+
+<div class="image-container">
   <img align="right" alt="coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif" style="width: 330px;">
 </div>
+
 
 - 🔭 I’m currently working on **Amazon-Clone**
 
